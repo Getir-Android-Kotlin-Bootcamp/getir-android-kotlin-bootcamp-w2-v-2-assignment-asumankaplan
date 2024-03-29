@@ -23,3 +23,8 @@
 Projede, istenilen tasarım hedefine ulaşılamamıştır. Bununla birlikte, verilen ödevin dışında eklenmeyi hedeflenmiştir.
 
 
+https://github.com/Getir-Android-Kotlin-Bootcamp/getir-android-kotlin-bootcamp-w2-v-2-assignment-asumankaplan/assets/52298438/165e4fc5-fd5b-44a7-9b61-a9b45f7b9f29
+
+
+
+
