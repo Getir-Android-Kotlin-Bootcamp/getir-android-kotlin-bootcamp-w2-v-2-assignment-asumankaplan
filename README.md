@@ -20,7 +20,7 @@
 
 3- Adres Arama ve İşaretleme: Geocoder kullanılarak yapılan adres arama sonucunda bulunan konumlar haritada işaretlendi.
 
-Projede, istenilen tasarım hedefine ulaşılamamıştır. Bununla birlikte, verilen ödevin dışında eklenmeyi hedeflenmiştir.
+Projede, istenilen tasarım hedefine ulaşılamamıştır. Bununla birlikte, verilen ödevin dışında eklenmesi hedeflenmiştir.
 
 
 https://github.com/Getir-Android-Kotlin-Bootcamp/getir-android-kotlin-bootcamp-w2-v-2-assignment-asumankaplan/assets/52298438/5ec71cbb-e24d-4da0-9e39-44cb533ae160
