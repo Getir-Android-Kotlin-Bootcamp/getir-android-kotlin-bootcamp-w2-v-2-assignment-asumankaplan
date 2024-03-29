@@ -15,8 +15,11 @@
 ### Yapılanlar
 
 1 - Harita Oluşturma: Google Maps API kullanılarak bir harita oluşturuldu.
+
 2 - Mevcut Konum Belirleme: Kullanıcının mevcut konumu alındı ve harita üzerinde işaretlendi.
+
 3- Adres Arama ve İşaretleme: Geocoder kullanılarak yapılan adres arama sonucunda bulunan konumlar haritada işaretlendi.
+
 Projede, istenilen tasarım hedefine ulaşılamamıştır. Bununla birlikte, verilen ödevin dışında eklenmeyi hedeflenmiştir.
 
 
